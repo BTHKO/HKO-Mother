@@ -1,9 +1,30 @@
-# HKO Grunt v11 — Desktop Maintenance Agent (Threaded Edition)
+# HKO Grunt — Desktop Maintenance Agent
 
-HKO Grunt v11 is the core desktop maintenance and intelligence agent of the **HKO Metaverse**.  
+HKO Grunt is the core desktop maintenance and intelligence agent of the **HKO Metaverse**.
 It acts as a real-time assistant that keeps your workstation clean, structured, and ready for high-level work across all HKO modules.
 
-The v11 edition is fully threaded, EXE-safe, and engineered for large environments with thousands of files.
+## Latest Version: v12 (Optimized Edition)
+
+**v12** is fully optimized with thread-safe architecture, intelligent duplicate detection, file organization, code cataloging, and AI preparation features. See [HKO_Grunt_v12_Documentation.md](HKO_Grunt_v12_Documentation.md) for complete details.
+
+### Key Features:
+- ✅ **No UI freezing** - All operations run in background threads
+- ✅ **Optimized duplicate detection** - 10-50x faster with size pre-filtering
+- ✅ **Smart file organization** - Automatic categorization into 7+ categories
+- ✅ **Code extraction** - Preserve structure, smart conflict resolution
+- ✅ **AI prep** - Consolidate entire codebase for AI analysis
+- ✅ **Progress tracking** - Real-time updates for all operations
+- ✅ **Task cancellation** - Cancel any long-running operation
+- ✅ **Enhanced logging** - Fast append mode with rotation
+
+### Quick Start:
+```bash
+# Run Python script
+python HKO_Grunt_v12_optimized.py
+
+# Or build EXE
+build_grunt_v12.bat
+```
 
 ---
 
